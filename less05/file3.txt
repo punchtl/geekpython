@@ -1,0 +1,5 @@
+Sotrudnik1 12000
+Sotrudnik2 21000
+Sotrudnik3 55000
+Sotrudnik4 6000
+Sotrudnik5 10000
